@@ -1,0 +1,7 @@
+hub,temperature_c,humidity_pct,target_c
+HUB-N1,-18.2,64,18.0
+HUB-N2,-16.9,71,18.0
+HUB-C1,-19.4,58,18.0
+HUB-C2,-17.5,76,18.0
+HUB-S1,-20.1,62,18.0
+HUB-S2,-18.8,69,18.0
